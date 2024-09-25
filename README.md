@@ -1,2 +1,2 @@
 # Amazon-Clone
-HOLA AMIGO
+It is just a Clone. Not real...
