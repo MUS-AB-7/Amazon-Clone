@@ -27,7 +27,7 @@
 .Amazonlogo {
     height: 50px;
     width: 100%;
-    background-image: url(/Amazon_Clone/AmazonLogo.png);
+    background-image: url(/AmazonLogo.png);
     background-size: contain;
 }
 .add-first {
@@ -136,7 +136,7 @@ span {
 
 .hero-section {
     height: 400px;
-    background-image: url(/Amazon_Clone/main.jpg);
+    background-image: url(/main.jpg);
     background-size: cover;
     display: flex;
     justify-content: center;
@@ -176,7 +176,7 @@ span {
 
 .box-img {
     height: 300px;
-    background-image: url(/Amazon_Clone/Deals\ in\ pc.jpg);
+    background-image: url(/dealinpc.jpg);
 }
 
 .box-content {
